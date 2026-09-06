@@ -1,4 +1,6 @@
+||portal.azure.com/api/ClientTrace^$xhr
 ||portal.azure.com/api/extensiontelemetry^$xhr
+||portal.azure.com/api/metric^$xhr
 ||portal.azure.com/api/Telemetry^$xhr
 ||portal.azure.com/AzureHubs/api/Telemetry^$xhr
 ||sentry.io^
